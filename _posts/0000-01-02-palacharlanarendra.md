@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+talk is cheap , show me the code
 Use the left arrow to go back!
